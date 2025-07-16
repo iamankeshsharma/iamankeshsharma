@@ -18,4 +18,4 @@ Hi there, my name is Ankesh and I am an undergraduate student at DPGITM Gurugram
 [![](https://visitcount.itsvg.in/api?id=iamankeshsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://www.buymeacoffee.com/iamankeshsharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/iamankeshsharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 117px !important;" ></a>
