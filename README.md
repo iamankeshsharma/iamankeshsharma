@@ -13,8 +13,6 @@ Builder
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamankeshsharma&theme=cobalt&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamankeshsharma&theme=cobalt&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/648de6c8779070ae62485217?variant=dark)](https://roadmap.sh)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iamankeshsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
